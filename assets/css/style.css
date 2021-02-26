@@ -1,3 +1,118 @@
+.boreder {
+  border: 1px solid #1f0091;
+}
 
+.ipt1 {
+  display: inline;
+  padding: 1px;
+  border: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt2 {
+  display: inline;
+  border-top: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt3 {
+  display: inline;
+  border-right: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt4 {
+  display: inline;
+  border-top: solid black 1px;
+  border-left: solid black 1px;
+  border-bottom: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt5 {
+  display: inline;
+  border-top: solid black 1px;
+  border-left: solid black 3px;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt6 {
+  display: inline;
+  border-radius: 25%;
+  min-height: 9vh;
+  width: 6vw;
+}
+
+.ipt7 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-top-left-radius: 25%;
+}
+
+.ipt8 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-top-right-radius: 25%;
+}
+
+.ipt9 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-bottom-right-radius: 25%;
+}
+
+.ipt10 {
+  display: inline;
+  min-height: 9vh;
+  width: 6vw;
+  border-bottom-left-radius: 25%;
+}
+
+.plan {
+  margin-inline-end: 10vw;
+  margin-top: -25vh;
+  height: 50vh;
+  width: 40vw;
+  border: solid black;
+}
+
+body {
+  background-color: #9797975b;
+}
+
+.borderfull {
+  border: 4px black solid;
+  height: 5vh;
+  width: 5vw;
+}
+
+.dottedb {
+  border: dotted;
+  height: 5vh;
+  width: 5vw;
+}
+
+.radi {
+  border: 1px black solid;
+  border-radius: 3px;
+  height: 5vh;
+  width: 5vw;
+}
+
+.semired {
+  border-top: red 2px solid;
+}
+
+.moitiered {
+  border-top: red 5px solid;
+}
 
 /*# sourceMappingURL=style.css.map */
